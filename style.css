@@ -1,0 +1,158 @@
+body{
+  font-family: 'ABeeZee', sans-serif;
+}
+h1{
+text-transform: uppercase;
+letter-spacing: 20px;
+font-size: 30px;
+margin: 0;
+padding-left: 30px;
+padding-top: 30px;
+     background: black;
+     color:white;
+     padding-bottom: 10px;
+     margin-left: -10px;
+}
+h2{
+	text-transform: uppercase;
+	letter-spacing: 20px;
+	font-size: 10px;
+	padding-left: 70px;
+	padding-top: 45px;
+	   background: black;
+     color:white;
+     padding-bottom: 10px;
+     margin: 0;
+}
+.flex-container{
+	display: -webkit-flex;
+	background: black;
+	margin-top: -10px;
+	margin-right: -10px;
+}
+.flex-container-2{
+	display: -webkit-flex;
+}
+h3{
+	text-transform: uppercase;
+		letter-spacing: 20px;
+		font-size: 20px;
+		margin-left:250px;
+		margin-top: 290px;
+}
+h4{
+	 	letter-spacing: 5px;
+	 	font-size: 10px;
+	 	margin-left:100px; 
+	 	margin-top: 50px;
+	 	width: 600px;
+	 	text-align: justify;
+}
+#foto{
+	background-image: url(http://www.enbuenasmanos.com/wp-content/uploads/bfi_thumb/64679399-30j6aeit1frgmf6gkjfymi.jpg);
+background-size: cover;
+}
+h5{
+	font-size: 20px;
+	margin-left: 250px;
+	margin-top: 150px;
+	text-align: left;
+	color: grey;
+}
+p{
+	font-size: 15px;
+	text-align: justify;
+	margin-top: 250px;
+	width: 500px;
+	line-height: 20px;
+	 margin-left: 200px;
+	 color: grey;
+	 margin-bottom: 70px;
+}
+.franja-naranja{
+	margin-top: -10px;
+	background: #b3b300;
+	padding-bottom: 70px;
+	padding-left: 150px;
+}
+#cuadrado-blanco{
+	background-color: #ebebe0;
+	padding: 30px;
+	height: 100px;
+	margin-top: 230px;
+	margin-right: -300px;
+}
+ul{
+	font-size: 15px;
+	list-style-type: none;
+	line-height: 30px;
+	margin-top: 200px;
+	margin-left: 120px;
+	border: 3px solid black; 
+	padding-right: 40px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border-radius:10px;
+}
+#partefinal{
+	margin-left: 350px;
+	word-spacing: 50px;
+	background: #b3b300;
+	background-size: cover;
+	margin: 0;
+	padding-left: 300px;
+	margin-top: 200px;
+	height: 300px;
+	margin-bottom: -10px;
+}
+.titulo-lista{
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+a{
+	color: black;
+}
+a:hover {
+    color: blue;
+     text-decoration: underline;
+}
+.caja-1{
+	border: 5px solid black; 
+	padding-bottom:70px; 
+	padding-left: 0px;
+	width: 750px;
+	padding-right: 50px;
+	margin-left: 50px;
+	height: 400px;
+	padding-top: 10px;
+	margin-top: 30px;
+	background:#ebebe0;
+	}
+.caja-2{
+	border: 1px solid black;
+	margin-top: 230px;
+	padding: 20px;
+	height: 100px;
+	padding-bottom: 30px;
+}
+.color-2{
+	background: #ccff99;
+}
+img{
+	height:200px; 
+	width:200px;
+	float: left;
+	margin-top: -280px;
+	margin-left: 300px;
+}
+#mano{
+	float:right;
+	margin-right: 300px;
+}
+.iconos-lista{
+	float: bottom;
+	margin-top: 300px;
+	margin-left: -470px;
+	margin-right: 500px;
+	padding-top: 30px;
+}
