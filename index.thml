@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zen Garden:The Beauty of CSS Design</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<link href="https://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet">
+<div class="flex-container">
+<h1>Zen Garden</h1>
+<h2>The Beauty of CSS Design</h2>
+</div>
+<div id="foto">
+<div class="caja-1">
+<h3>ZEN GARDEN</h3>
+<h4>A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.</h4>
+</div></div>
+      <div class="flex-container-2">
+  <h5>The Road to Enlightenment</h5>
+  <p>Littering a dark and dreary road lay the past relics of browser-specific tags, incompatible DOMs, broken CSS support, and abandoned browsers.
+We must clear the mind of the past. Web enlightenment has been achieved thanks to the tireless efforts of folk like the W3C, WaSP, and the major browser creators.
+The CSS Zen Garden invites you to relax and meditate on the important lessons of the masters. Begin to see with clarity. Learn to use the time-honored techniques in new and invigorating fashion. Become one with the web.</p> 
+</div>
+<img src="https://image.flaticon.com/icons/svg/115/115743.svg">
+<div class="color-2">
+<div class="flex-container-2">
+  <h5>So What is This About?</h5>
+  <p>There is a continuing need to show the power of CSS. The Zen Garden aims to excite, inspire, and encourage participation. To begin, view some of the existing designs in the list. Clicking on any one will load the style sheet into this very page. The HTML remains the same, the only thing that has changed is the external CSS file. Yes, really.
+CSS allows complete and total control over the style of a hypertext document. The only way this can be illustrated in a way that gets people excited is by demonstrating what it can truly be, once the reins are placed in the hands of those able to create beauty from structure. Designers and coders alike have contributed to the beauty of the web; we can always push it further.</p></div></div>
+<img src="https://image.flaticon.com/icons/svg/181/181374.svg">
+<div class="flex-container-2">
+  <h5>Participation</h5>
+<p>Strong visual design has always been our focus. You are modifying this page, so strong CSS skills are necessary too, but the example files are commented well enough that even CSS novices can use them as starting points. Please see the <a href="https://image.flaticon.com/icons/svg/204/204280.svg">Resource Guide</a> for advanced tutorials and tips on working with CSS.
+You may modify the style sheet in any way you wish, but not the HTML. This may seem daunting at first if youve never worked this way before, but follow the listed links to learn more, and use the sample files as a guide.
+Download the sample HTML and CSS to work on a copy locally. Once you have completed your masterpiece (and please, dont submit half-finished work) upload your CSS file to a web server under your control. Send us a 
+<a href="http://www.mezzoblue.com/zengarden/submit/">link</a> to an archive of that file and all associated assets, and if we choose to use it we will download it and place it on our server.</p>
+</div>
+<img src="https://image.flaticon.com/icons/svg/401/401506.svg">
+<div class="color-2">
+<div class="flex-container-2">
+<div id="Benefits">
+   <h5>Benefits</h5></div>
+<p>Why participate? For recognition, inspiration, and a resource we can all refer to showing people how amazing CSS really can be. This site serves as equal parts inspiration for those working on the web today, learning tool for those who will be tomorrow, and gallery of future techniques we can all look forward to.</p></div></div>
+<img src="https://image.flaticon.com/icons/svg/118/118179.svg">
+<div class="flex-container-2">
+    <h5>Requirements</h5>
+<p>Where possible, we would like to see mostly CSS 1 and 2 usage. CSS 3 and 4 should be limited to widely-supported elements only, or strong fallbacks should be provided. The CSS Zen Garden is about functional, practical CSS and not the latest bleeding-edge tricks viewable by 2% of the browsing public. The only real requirement we have is that your CSS validates.
+  Luckily, designing this way shows how well various browsers have implemented CSS by now. When sticking to the guidelines you should see fairly consistent results across most modern browsers. Due to the sheer number of user agents on the web these days  especially when you factor in mobile  pixel-perfect layouts may not be possible across every platform. Thats okay, but do test in as many as you can. Your design should work in at least IE9+ and the latest Chrome, Firefox, iOS and Android browsers (run by over 90% of the population).</p>
+</div>
+<img src="https://image.flaticon.com/icons/svg/398/398812.svg">
+<p>We ask that you submit original artwork. Please respect copyright laws. Please keep objectionable material to a minimum, and try to incorporate unique and interesting visual themes to your work. Were well past the point of needing another garden-related design.
+This is a learning exercise as well as a demonstration. You retain full copyright on your graphics (with limited exceptions, see <a href="http://www.mezzoblue.com/zengarden/submit/guidelines/">submission guidelines</a>, but we ask you release your CSS under a Creative Commons license identical to the one on <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">this site</a> so that others may learn from your work.</p>
+<div id="mano">
+<img src="https://image.flaticon.com/icons/svg/498/498729.svg">
+</div>
+<div class="franja-naranja">
+<div class="flex-container-2">
+<p>
+By <a href="http://www.mezzoblue.com/">Dave Shea</a>. Bandwidth graciously donated by <a href="https://mediatemple.net/">mediatemple</a>.
+      </p>
+<p><a href="https://www.amazon.com/exec/obidos/ASIN/0321303474/mezzoblue-20/" class="list-group-item active">Now available Zen Garden the book</a>
+  </p>
+  <p><div class="caja-2">Download the example html file and css file</div></p>
+  </div></div>
+  <div class="flex-container-2">
+<ul><div class="titulo-lista">Select a design</div>
+<li><a href="http://www.an
+drewlohman.com/" class="list-group-item active">Mid Century Modern by Andrew Lohman
+</a></li>
+  <li><a href="http://danmall.me/" class="list-group-item active">Garments by Dan Mall
+</a></li>
+<li><a href="http://steffen-knoeller.de/" class="list-group-item active">Steel by Steffen Knoeller</a></li>
+<li><a href="http://trentwalton.com/" class="list-group-item active">Apothecary by Trent Walton</a></li>
+<li><a href="http://www.elliotjaystocks.com/" class="list-group-item active">Screen Filler by Elliot Jay Stocks</a></li>
+<li><a href="http://jeremycarlson.com/" class="list-group-item active">Fountain Kiss by Jeremy Carlson</a></li>
+<li><a href="https://www.meltmedia.com/" class="list-group-item active">A Robot Named Jimmy by meltmedia</a></li>
+<li><a href="http://www.mezzoblue.com/" class="list-group-item active">Verde Moderna by Dave Shea</a></li>
+</ul>
+<ul><div class="titulo-lista">Archives</div>
+<li><a href="http://www.andrewlohman.com/" class="list-group-item active">Next Designs</a></li>
+<li><class="list-group">View All Designs</li>
+</ul>  
+<ul><div class="titulo-lista">Resources</div>
+<li><a href="file:///D:/Docs/Downloads/style.css" class="list-group-item active">View This Designs CSS</a></li>
+<li><a href="http://www.mezzoblue.com/zengarden/resources/" class="list-group-item active">CSS Resources</a></li>
+  <li><a href="http://www.mezzoblue.com/zengarden/faq/" class="list-group-item active">FAQ</a></li>
+<li><a href="http://www.mezzoblue.com/zengarden/submit/" class="list-group-item active">Submit a Design</a></li>
+<li><a href="http://www.mezzoblue.com/zengarden/translations/" class="list-group-item active">Translations</a></li>
+</ul>
+  </div>
+<div id="partefinal">
+<div class="iconos-lista">
+<div class="flex-container">
+<img src="https://image.flaticon.com/icons/svg/115/115806.svg">
+<img src="https://image.flaticon.com/icons/svg/149/149393.svg">
+<img src="https://image.flaticon.com/icons/svg/259/259513.svg">
+</div></div>
+<div class="flex-container-2">
+<p> 
+<a href="http://validator.w3.org">HTML</a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC</a>
+<a href="http://mezzoblue.com/zengarden/faq/#aaa">Any</a>
+<a href="https://github.com/mezzoblue/csszengarden.com">GH</a>
+</p>
+</div>
+</div>
+</body>
+</html>
